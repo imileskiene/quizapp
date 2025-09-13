@@ -1,6 +1,6 @@
-# quiz app
+# quizApp
 
-quiz app made with HTML, CSS, and JavaScript.
+quizApp made with HTML, CSS, and JavaScript.
 
 
 ##  Project Tutorial
@@ -13,7 +13,7 @@ This project was created for learning purposes by following a tutorial by [Great
 
 ## Live Demo
 
-👉 [View Live Demo](https://imileskiene.github.io/toast-notification/)  
+👉 [View Live Demo](https://imileskiene.github.io/quizapp/)  
 
 ---
 
